@@ -1,2 +1,2 @@
-# machine_learning_CNN_DecisionTree_aihw3
-Machine learning
+# machine_learning_CNN_DecisionTree
+Machine learning with 5 kinds of picture
